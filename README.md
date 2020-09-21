@@ -1,4 +1,4 @@
-<h1 align="center">HI Guys! I'm BlueBlue21!</h1>
+<h1 align="center">HI Guys! I'm BlueBlue21! 👋</h1>
 <h2 align="center">Welcome to My GitHub<h2>
 <img align="left" src="https://komarev.com/ghpvc/?username=blueblue21&style=flat-square"/>
 
