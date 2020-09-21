@@ -15,3 +15,5 @@
 <img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg"/>
 <img align="left" alt="Html" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"/>
 <img align="left" alt="Css" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"/>
+<img align="left" alt="C#" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg"/>
+<img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg"/>
