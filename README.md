@@ -11,5 +11,7 @@
 
 ### Languages
 
-<img align="left" alt="Lua" width="26px" src="https://github.com/leopiccionia/programmicons/blob/master/src/lua.svg"/>
-<img align="left" alt="Python" width="26px" src="https://github.com/leopiccionia/programmicons/blob/master/src/python.svg"/>
+<img align="left" alt="Javascript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"/>
+<img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg"/>
+<img align="left" alt="Html" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"/>
+<img align="left" alt="Css" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"/>
