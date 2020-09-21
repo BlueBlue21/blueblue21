@@ -2,9 +2,6 @@
 <h2 align="center">Welcome to My GitHub<h2>
 <img align="left" src="https://komarev.com/ghpvc/?username=blueblue21&style=flat-square"/>
 
-## Main
-- 🐶 I Like Doge
-
 ## My GitHub Stats
 
 [![Blue's github stats](https://github-readme-stats.vercel.app/api?username=BlueBlue21&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
