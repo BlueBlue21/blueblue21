@@ -1,5 +1,5 @@
 ## HI Guys! I'm BlueBlue21! 👋
-## Welcome to My GitHub
+## Welcome to My GitHub / My Discord : BlueBlue#7032
 <img align="left" src="https://komarev.com/ghpvc/?username=blueblue21&style=flat-square"/>
 
 <br>
