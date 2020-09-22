@@ -6,8 +6,8 @@
 
 ### My GitHub Stats
 
-[![Blue's github stats](github-readme-stats-mocha-zeta.vercel.app/api?username=BlueBlue21&show_icons=true&theme=react)]
-[![Top Langs](github-readme-stats-mocha-zeta.vercel.app/api/top-langs/?username=BlueBlue21&show_icons=true&theme=react&layout=compact)]
+<img align="left" alt="BlueBlue21's GitHub Stats" src="https://github-readme-stats-mocha-zeta.vercel.app/api?username=BlueBlue21&show_icons=true&theme=react"/>
+<img align="left" alt="BlueBlue21's GitHub Top Langs" src="https://github-readme-stats-mocha-zeta.vercel.app/api/top-langs/?username=BlueBlue21&show_icons=true&theme=react&layout=compact"/>
 
 ### Languages
 
