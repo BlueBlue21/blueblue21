@@ -9,6 +9,8 @@
 <img align="left" alt="BlueBlue21's GitHub Stats" src="https://github-readme-stats-mocha-zeta.vercel.app/api?username=BlueBlue21&show_icons=true&theme=react"/>
 <img align="left" alt="BlueBlue21's GitHub Top Langs" src="https://github-readme-stats-mocha-zeta.vercel.app/api/top-langs/?username=BlueBlue21&show_icons=true&theme=react&layout=compact"/>
 
+<br>
+
 ### Languages
 
 <img align="left" alt="Javascript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"/>
