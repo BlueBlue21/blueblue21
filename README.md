@@ -6,8 +6,8 @@
 
 ### My GitHub Stats
 
-[![Blue's github stats](https://github-readme-stats.vercel.app/api?username=BlueBlue21&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueBlue21&show_icons=true&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Blue's github stats](github-readme-stats-mocha-zeta.vercel.app/api?username=BlueBlue21&show_icons=true&theme=react)]
+[![Top Langs](github-readme-stats-mocha-zeta.vercel.app/api/top-langs/?username=BlueBlue21&show_icons=true&theme=react&layout=compact)]
 
 ### Languages
 
