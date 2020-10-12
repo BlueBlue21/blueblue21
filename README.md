@@ -29,6 +29,8 @@ console.log("Hello World! I'm BlueBlue21!");
 
 <img align="left" alt="Javascript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"/>
 
+<br>
+
 ### 관련 링크 📌 :
 
 [웹 사이트](None)
