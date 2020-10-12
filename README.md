@@ -16,7 +16,9 @@ console.log("Hello World! I'm BlueBlue21!");
 
 아직은 미숙한 점이 많지만 최대한 노력 해보고 배울려고 합니다. 감사합니다!
 
-### 제 스텟 입니다. 📊
+<br>
+
+### 제 스탯 입니다. 📊
 
 <div align="left">
       <img alt="BlueBlue21's GitHub Stats" src="https://github-readme-stats-mocha-zeta.vercel.app/api?username=bluenoob232&show_icons=true&theme=react"/>
