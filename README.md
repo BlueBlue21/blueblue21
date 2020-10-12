@@ -16,10 +16,6 @@ console.log("Hello World! I'm BlueBlue21!");
 
 아직은 미숙한 점이 많지만 최대한 노력 해보고 배울려고 합니다. 감사합니다!
 
-#### 관련 링크 :
-
-[웹 사이트](None)
-
 ### 제 스텟 입니다. 📊
 
 <div align="left">
@@ -32,3 +28,7 @@ console.log("Hello World! I'm BlueBlue21!");
 ### 쓰는 언어들 💬
 
 <img align="left" alt="Javascript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"/>
+
+### 관련 링크 📌 :
+
+[웹 사이트](None)
