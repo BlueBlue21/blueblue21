@@ -1,5 +1,5 @@
 ## 반가워요! 👋
-## 여긴 제 프로그래밍 기록 저장소 입니다. 💾
+## 여긴 제 깃허브 입니다. 💾
 
 <img align="left" src="https://komarev.com/ghpvc/?username=blueblue21&style=flat-square"/>
 
