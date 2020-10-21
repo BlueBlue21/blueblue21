@@ -35,4 +35,4 @@ console.log("Hello World! I'm BlueBlue21!");
 
 ### 관련 링크 📌 :
 
-[웹 사이트](None)
+[웹 사이트](https://bluenoob232.github.io/BlueBlueMe)
