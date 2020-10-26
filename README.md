@@ -10,11 +10,15 @@
 console.log("Hello World! I'm BlueBlue21!");
 ```
 
-반가워요! 블루라고 합니다!
+반가워요! 저는
 
-저는 프로그래밍을 좋아하는 평범한 사람이에요.
+"프로그래밍을 좋아하고 하고 싶은건 마음대로" 하는 블루에요!
 
-아직은 미숙한 점이 많지만 최대한 노력 해보고 배울려고 합니다. 감사합니다!
+'즐기면서 배워라'가 제가 추구 하는 모토 입니다.
+
+제가 관심 있는 분야는 풀스택 입니다.
+
+전 웹 개발를 매우 좋아해요! ~~(재밋자너여)~~
 
 <br>
 
@@ -27,7 +31,7 @@ console.log("Hello World! I'm BlueBlue21!");
 
 <br>
 
-### 쓰는 언어들 💬
+### 사용중인 언어들 💬
 
 <img align="left" alt="Javascript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"/>
 
