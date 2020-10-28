@@ -20,6 +20,12 @@ console.log("Hello World! I'm BlueBlue21!");
 
 <br>
 
+### 제가 좋아하는 곡 🎧
+
+
+
+<br>
+
 ### 깃허브 스탯 📊
 
 <details>
@@ -44,3 +50,4 @@ console.log("Hello World! I'm BlueBlue21!");
 ### 관련 링크 📌 :
 
 [<img alt="BlueBlue's Web" src="https://img.shields.io/website?style=flat-square&up_color=blue&up_message=BlueBlue%27s%20Web&url=https%3A%2F%2Fbluenoob232.github.io%2FBlueBlueMe%2F"/>](https://bluenoob232.github.io/BlueBlueMe)
+[<img alt="BlueBlue's Discord" src="https://img.shields.io/badge/Discord-%F0%9D%96%A1%F0%9D%97%85%F0%9D%97%8E%F0%9D%96%BE%F0%9D%96%A1%F0%9D%97%85%F0%9D%97%8E%F0%9D%96%BE%232111-blue?style=flat-square"/>](https://discord.com)
