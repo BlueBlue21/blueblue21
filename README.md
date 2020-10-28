@@ -1,8 +1,6 @@
-<img align="left" src=""/>
-
 ## 반가워요! - [웹 사이트 방문](https://bluenoob232.github.io/BlueBlueMe) 👋
 
-<img align="left" src="https://komarev.com/ghpvc/?username=blueblue21&style=flat-square"/>
+<img alt="BlueBlue21's Profile views" align="left" src="https://komarev.com/ghpvc/?username=blueblue21&style=flat-square"/>
 
 <br>
 
