@@ -1,3 +1,5 @@
+<img align="left" src=""/>
+
 ## 반가워요! - [웹 사이트 방문](https://bluenoob232.github.io/BlueBlueMe) 👋
 
 <img align="left" src="https://komarev.com/ghpvc/?username=blueblue21&style=flat-square"/>
@@ -17,8 +19,6 @@ console.log("Hello World! I'm BlueBlue21!");
 - 🎤 제가 추구 하는 모토는 '즐기면서 배워라' 입니다.
 
 > 💻 저는 현재 풀스택 및 코틀린에 관심이 있어요!
-
-> 💛 아직 초보지만 열심히 노력 할게요!
 
 <hr>
 
