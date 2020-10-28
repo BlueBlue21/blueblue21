@@ -5,17 +5,18 @@
 <br>
 
 ### 간단한 소개 ❗
+
 ```javascript
 console.log("Hello World! I'm BlueBlue21!");
 ```
 
 - 👋 반가워요! 저는
 
-- 💙 "프로그래밍을 좋아하고 하고 싶은건 마음대로" 하는 블루에요!
+- 💙 프로그래밍을 좋아하는 블루에요!
 
-- 🎤 '즐기면서 배워라'가 제가 추구 하는 모토 입니다.
+- 🎤 제가 추구 하는 모토는 '즐기면서 배워라' 입니다.
 
-- 💻 제가 관심 있는 분야는 풀스택 입니다.
+- 💻 저는 현재 풀스택 및 코틀린에 관심이 있어요!
 
 <br>
 
@@ -42,4 +43,4 @@ console.log("Hello World! I'm BlueBlue21!");
 
 ### 관련 링크 📌 :
 
-[웹 사이트](https://bluenoob232.github.io/BlueBlueMe)
+[<img alt="BlueBlue's Web" src="https://img.shields.io/website?style=flat-square&up_color=blue&up_message=BlueBlue%27s%20Web&url=https%3A%2F%2Fbluenoob232.github.io%2FBlueBlueMe%2F"/>](https://bluenoob232.github.io/BlueBlueMe)
