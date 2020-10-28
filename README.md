@@ -1,4 +1,4 @@
-## 반가워요! - [웹 사이트](https://bluenoob232.github.io/BlueBlueMe) 👋
+## 반가워요! - [제 웹 사이트 방문](https://bluenoob232.github.io/BlueBlueMe) 👋
 
 <img align="left" src="https://komarev.com/ghpvc/?username=blueblue21&style=flat-square"/>
 
