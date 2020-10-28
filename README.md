@@ -18,7 +18,7 @@ console.log("Hello World! I'm BlueBlue21!");
 
 - 💻 저는 현재 풀스택 및 코틀린에 관심이 있어요!
 
-<br>
+<hr>
 
 ### 제가 좋아하는 곡 🎧
 
