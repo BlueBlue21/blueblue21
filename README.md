@@ -20,9 +20,9 @@ console.log("Hello World! I'm BlueBlue21!");
 
 <br>
 
-### 제가 좋아하는 곡 🎧
+### 제가 듣고 있는 곡 🎧
 
-
+[<img src="" alt="BlueBlue's Spotify"/>](https://open.spotify.com/user/316dsuwjcdkvamqengfjw2dzuyny)
 
 <br>
 
@@ -42,6 +42,12 @@ console.log("Hello World! I'm BlueBlue21!");
 
 <details>
       <summary>💬 사용중인 언어 보기</summary>
+      <img align="left" alt="Javascript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"/>
+      <hr>
+      <img align="left" alt="Javascript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"/>
+      <hr>
+      <img align="left" alt="Javascript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"/>
+      <hr>
       <img align="left" alt="Javascript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"/>
 </details>
 
