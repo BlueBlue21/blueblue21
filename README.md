@@ -25,7 +25,7 @@ console.log("Hello World! I'm BlueBlue21!");
 <details>
       <summary>🎧 좋아하는 음악 보기</summary>
       <a href="https://spotify-github-profile.vercel.app/api/view?uid=316dsuwjcdkvamqengfjw2dzuyny&redirect=true">
-            <img alt="BlueBlue21's Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=316dsuwjcdkvamqengfjw2dzuyny&cover_image=true&theme=novatorem"/>
+            <img alt="BlueBlue21's Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=316dsuwjcdkvamqengfjw2dzuyny&cover_image=true&theme=default"/>
       </a>
 </details>
 
@@ -36,7 +36,7 @@ console.log("Hello World! I'm BlueBlue21!");
 <details>
       <summary>📊 스탯 보기</summary>
       <div align="left">
-            <img alt="BlueBlue21's GitHub Stats" src="https://github-readme-stats-mocha-zeta.vercel.app/api?username=bluenoob232&show_icons=true&theme=default"/>
+            <img alt="BlueBlue21's GitHub Stats" src="https://github-readme-stats-mocha-zeta.vercel.app/api?username=bluenoob232&show_icons=true&theme=react"/>
           <img align="top" alt="BlueBlue21's GitHub Top Langs" src="https://github-readme-stats-mocha-zeta.vercel.app/api/top-langs/?username=bluenoob232&show_icons=true&theme=react&layout=compact"/>
       </div>
 </details>
