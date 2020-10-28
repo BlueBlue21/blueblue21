@@ -24,7 +24,7 @@ console.log("Hello World! I'm BlueBlue21!");
 
 <details>
       <summary>🎧 좋아하는 곡 보기</summary>
-[<img src="https://spotify-github-profile.vercel.app/api/view?uid=316dsuwjcdkvamqengfjw2dzuyny&cover_image=true&theme=default" alt="BlueBlue's Spotify"/>](https://open.spotify.com/user/316dsuwjcdkvamqengfjw2dzuyny)
+[<img src="https://spotify-github-profile.vercel.app/api/view?uid=316dsuwjcdkvamqengfjw2dzuyny&cover_image=true&theme=default" alt="BlueBlue's Spotify"/>(https://open.spotify.com/user/316dsuwjcdkvamqengfjw2dzuyny)
 </details>
 
 <br>
