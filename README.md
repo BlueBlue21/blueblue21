@@ -24,6 +24,7 @@ console.log("Hello World! I'm BlueBlue21!");
 
 <details>
       <summary>🎧 좋아하는 음악 보기</summary>
+      <br>
       <a href="https://spotify-github-profile.vercel.app/api/view?uid=316dsuwjcdkvamqengfjw2dzuyny&redirect=true">
             <img alt="BlueBlue21's Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=316dsuwjcdkvamqengfjw2dzuyny&cover_image=true&theme=default"/>
       </a>
@@ -35,6 +36,7 @@ console.log("Hello World! I'm BlueBlue21!");
 
 <details>
       <summary>📊 스탯 보기</summary>
+      <br>
       <div align="left">
             <img alt="BlueBlue21's GitHub Stats" src="https://github-readme-stats-mocha-zeta.vercel.app/api?username=bluenoob232&show_icons=true&theme=react"/>
           <img align="top" alt="BlueBlue21's GitHub Top Langs" src="https://github-readme-stats-mocha-zeta.vercel.app/api/top-langs/?username=bluenoob232&show_icons=true&theme=react&layout=compact"/>
@@ -47,6 +49,7 @@ console.log("Hello World! I'm BlueBlue21!");
 
 <details>
       <summary>💬 사용중인 언어 보기</summary>
+      <br>
       <img align="left" alt="Javascript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"/>
       <img align="left" alt="Javascript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"/>
       <img align="left" alt="Javascript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"/>
