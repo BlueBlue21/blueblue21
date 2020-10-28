@@ -22,7 +22,7 @@ console.log("Hello World! I'm BlueBlue21!");
 
 ### 제가 좋아하는 곡 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316dsuwjcdkvamqengfjw2dzuyny&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=316dsuwjcdkvamqengfjw2dzuyny&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316dsuwjcdkvamqengfjw2dzuyny&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=316dsuwjcdkvamqengfjw2dzuyny&redirect=true)
 
 <br>
 
