@@ -22,7 +22,7 @@ console.log("Hello World! I'm BlueBlue21!");
 
 ### 제가 듣고 있는 곡 🎧
 
-[<img src="" alt="BlueBlue's Spotify"/>](https://open.spotify.com/user/316dsuwjcdkvamqengfjw2dzuyny)
+[<img src="https://spotify-github-profile.vercel.app/api/view?uid=316dsuwjcdkvamqengfjw2dzuyny&cover_image=true&theme=novatorem" alt="BlueBlue's Spotify"/>](https://open.spotify.com/user/316dsuwjcdkvamqengfjw2dzuyny)
 
 <br>
 
