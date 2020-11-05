@@ -48,11 +48,11 @@ console.log("Hello World! I'm BlueBlue21!");
 <details>
       <summary>💬 사용중인 언어 보기</summary>
       <br>
-      <img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-      <img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>
-      <img align="left" alt="Html" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-      <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"/>
-      <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>
+      <img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/leopiccionia/programmicons/master/src/javascript.svg"/>
+      <img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/leopiccionia/programmicons/master/src/typescript.svg"/>
+      <img align="left" alt="Html" width="26px" src="https://raw.githubusercontent.com/leopiccionia/programmicons/master/src/html5.svg"/>
+      <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/leopiccionia/programmicons/master/src/kotlin.svg"/>
+      <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/leopiccionia/programmicons/master/src/java.svg"/>
 </details>
 
 <br>
