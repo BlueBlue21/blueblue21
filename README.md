@@ -1,12 +1,12 @@
 <img alt="BlueBlue21's Banner" align="center" src="https://raw.githubusercontent.com/bluenoob232/bluenoob232/master/Main.png"/>
 
-## 반가워요! - [웹 사이트 방문](https://bluenoob232.github.io/BlueBlueMe) 👋
+## 안녕하세요 전 BlueBlue21 이에요! - [웹 사이트 방문](https://bluenoob232.github.io/BlueBlueMe)
 
 <img alt="BlueBlue21's Profile views" align="left" src="https://komarev.com/ghpvc/?username=blueblue21&style=flat-square"/>
 
 <br>
 
-### 간단한 소개 ❗
+### 간단한 소개 👋
 
 ```javascript
 console.log("Hello World! I'm BlueBlue21!");
