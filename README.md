@@ -1,6 +1,6 @@
 <img alt="BlueBlue21's Banner" align="center" src="https://raw.githubusercontent.com/bluenoob232/bluenoob232/master/Main.png"/>
 
-## 안녕하세요 전 BlueBlue21 이에요!
+## 안녕하세요 BlueBlue21 이라고 해요!
 
 <img alt="BlueBlue21's Profile views" align="left" src="https://komarev.com/ghpvc/?username=blueblue21&style=flat-square"/>
 
@@ -16,7 +16,7 @@ console.log("Hello World! I'm BlueBlue21!");
 
 - 💙 프로그래밍을 좋아하는 블루에요!
 
-> 💻 저는 현재 풀스택 및 코틀린에 관심이 있어요! ~~와 코틀린 아시는구나!~~
+> 💻 저는 현재 풀스택 및 코틀린에 관심이 있어요!
 
 <hr>
 
