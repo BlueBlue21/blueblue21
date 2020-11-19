@@ -1,4 +1,4 @@
-<img alt="BlueBlue21's Banner" align="center" src="https://raw.githubusercontent.com/bluenoob232/bluenoob232/master/Main.png"/>
+[<img alt="BlueBlue21's Banner" align="center" src="https://raw.githubusercontent.com/bluenoob232/bluenoob232/master/Main.png"/>](https://github.com/bluenoob232)
 
 ## 안녕하세요 BlueBlue21 이라고 해요!
 
