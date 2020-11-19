@@ -2,7 +2,7 @@
 
 ## 안녕하세요 BlueBlue21 이라고 해요!
 
-<img alt="BlueBlue21's Profile views" align="left" src="https://komarev.com/ghpvc/?username=blueblue21&style=flat-square"/>
+[<img alt="BlueBlue21's Profile views" align="left" src="https://komarev.com/ghpvc/?username=blueblue21&style=flat-square"/>](https://github.com/bluenoob232)
 
 <br>
 
