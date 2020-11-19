@@ -63,4 +63,4 @@ console.log("Hello World! I'm BlueBlue21!");
 
 [<img alt="BlueBlue's Web" src="https://img.shields.io/badge/WebSite-Click%20Me!-blue?style=flat-square"/>](https://bluenoob232.github.io/BlueBlueMe)
 <br>
-[<img alt="BlueBlue's Discord" src="http://img.shields.io/badge/Discord-%F0%9D%96%A1%F0%9D%97%85%F0%9D%97%8E%F0%9D%96%BE%F0%9D%96%A1%F0%9D%97%85%F0%9D%97%8E%F0%9D%96%BE%232100-blue?style=flat-square"/>](https://discord.com)
+[<img alt="BlueBlue's Discord" src="http://img.shields.io/badge/Discord-BlueBlue%232100-blue?style=flat-square"/>](https://discord.gg/JpjfZJuMCh)
