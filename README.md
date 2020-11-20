@@ -63,4 +63,4 @@ console.log("Hello World! I'm BlueBlue21!");
 
 [<img alt="BlueBlue's Web" src="https://img.shields.io/badge/WebSite-Click%20Me!-blue?style=flat-square"/>](https://bluenoob232.github.io/BlueBlueMe)
 <br>
-[<img alt="BlueBlue's Discord" src="http://img.shields.io/badge/Discord-BlueBlue%232100-blue?style=flat-square"/>](https://discord.gg/JpjfZJuMCh)
+[<img alt="BlueBlue's Discord" src="http://img.shields.io/badge/Discord-BlueBlue%232100-blue?style=flat-square"/>](https://discord.com)
