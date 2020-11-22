@@ -26,7 +26,7 @@ console.log("Hello World! I'm BlueBlue21!");
       <summary>🎧 좋아하는 음악 보기</summary>
       <br>
       <a href="https://spotify-github-profile.vercel.app/api/view?uid=316dsuwjcdkvamqengfjw2dzuyny&redirect=true">
-            <img alt="BlueBlue21's Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=316dsuwjcdkvamqengfjw2dzuyny&cover_image=true&theme=default"/>
+          <img alt="BlueBlue21's Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=316dsuwjcdkvamqengfjw2dzuyny&cover_image=true&theme=default"/>
       </a>
 </details>
 
@@ -48,13 +48,13 @@ console.log("Hello World! I'm BlueBlue21!");
 ### 사용중인 언어들 💬
 
 <details>
-      <summary>💬 사용중인 언어 보기</summary>
-      <br>
-      <img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/leopiccionia/programmicons/master/src/javascript.svg"/>
-      <img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/leopiccionia/programmicons/master/src/typescript.svg"/>
-      <img align="left" alt="Html" width="26px" src="https://raw.githubusercontent.com/leopiccionia/programmicons/master/src/html5.svg"/>
-      <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/leopiccionia/programmicons/master/src/kotlin.svg"/>
-      <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/leopiccionia/programmicons/master/src/java.svg"/>
+         <summary>💬 사용중인 언어 보기</summary>
+         <br>
+         <img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/leopiccionia/programmicons/master/src/javascript.svg"/>
+         <img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/leopiccionia/programmicons/master/src/typescript.svg"/>
+         <img align="left" alt="Html" width="26px" src="https://raw.githubusercontent.com/leopiccionia/programmicons/master/src/html5.svg"/>
+         <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/leopiccionia/programmicons/master/src/kotlin.svg"/>
+         <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/leopiccionia/programmicons/master/src/java.svg"/>
 </details>
 
 <br>
