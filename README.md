@@ -8,7 +8,7 @@
 
 ### 간단한 소개 👋
 
-```javascript
+```typescript
 console.log("Hello World! I'm BlueBlue21!");
 ```
 
