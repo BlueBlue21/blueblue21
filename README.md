@@ -50,11 +50,11 @@ console.log("Hello World! I'm BlueBlue21!");
 <details>
          <summary>💬 사용중인 언어 보기</summary>
          <br>
-         <img align="left" alt="Javascript" src="https://img.shields.io/badge/JavaScript-232323?style=flat-square&logo=JavaScript&logoColor=white?style=flat-square"/>
-         <img align="left" alt="Typescript" src="https://img.shields.io/badge/TypeScript-232323?style=flat-square&logo=TypeScript&logoColor=white?style=flat-square"/>
-         <img align="left" alt="Html" src="https://img.shields.io/badge/Html5-232323?style=flat-square&logo=Html5&logoColor=white?style=flat-square"/>
-         <img align="left" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-232323?style=flat-square&logo=Kotlin&logoColor=white?style=flat-square"/>
-         <img align="left" alt="Go" src="https://img.shields.io/badge/Go-232323?style=flat-square&logo=Go&logoColor=white?style=flat-square"/>
+         <img align="left" alt="Javascript" width="32" src="https://raw.githubusercontent.com/bluenoob232/bluenoob232/master/icons/javascript.svg"/>
+         <img align="left" alt="Typescript" width="32" src="https://github.com/bluenoob232/bluenoob232/blob/master/icons/typescript.svg"/>
+         <img align="left" alt="Html" width="32" src="https://github.com/bluenoob232/bluenoob232/blob/master/icons/html5.svg"/>
+         <img align="left" alt="Kotlin" width="32" src="https://raw.githubusercontent.com/bluenoob232/bluenoob232/master/icons/kotlin.svg"/>
+         <img align="left" alt="Go" width="32" src="https://raw.githubusercontent.com/bluenoob232/bluenoob232/master/icons/go.svg"/>
 </details>
 
 <br>
