@@ -3,6 +3,7 @@
 [<img alt="BlueBlue21's Profile views" align="left" src="https://komarev.com/ghpvc/?username=blueblue21&style=flat-square"/>](https://github.com/bluenoob232)
 
 <br>
+<hr>
 
 ### My Spotify 🎧
 
@@ -41,6 +42,7 @@
          <img align="left" alt="Go" width="32" src="https://raw.githubusercontent.com/bluenoob232/bluenoob232/master/icons/go.svg"/>
 </details>
 
+<br>
 <hr>
 
 ### Link 📌 :
