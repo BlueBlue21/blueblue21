@@ -44,5 +44,5 @@
          <img align="left" alt="Go" width="32" src="https://raw.githubusercontent.com/bluenoob232/bluenoob232/master/icons/go.svg"/>
 </details>
 
-<hr>
 <br>
+<hr>
