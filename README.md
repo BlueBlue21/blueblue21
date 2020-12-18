@@ -6,7 +6,6 @@
 
 <br>
 <hr>
-<br>
 
 ### My Spotify 🎧
 
