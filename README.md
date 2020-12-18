@@ -1,6 +1,7 @@
 [<img alt="BlueBlue21's Banner" align="center" src="https://raw.githubusercontent.com/bluenoob232/bluenoob232/master/Main.png"/>](https://github.com/bluenoob232)
 
 [<img alt="BlueBlue21's Profile views" align="left" src="https://komarev.com/ghpvc/?username=blueblue21&style=flat-square"/>](https://github.com/bluenoob232)
+[<img alt="BlueBlue's Web" align="left" src="https://img.shields.io/badge/WebSite-Click%20Me!-blue?style=flat-square"/>](https://bluenoob232.github.io)
 
 <br>
 <hr>
@@ -44,8 +45,4 @@
 
 <br>
 <hr>
-
-### Link 📌 :
-
-[<img alt="BlueBlue's Web" src="https://img.shields.io/badge/WebSite-Click%20Me!-blue?style=flat-square"/>](https://bluenoob232.github.io)
 <br>
