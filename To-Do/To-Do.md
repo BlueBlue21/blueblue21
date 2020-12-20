@@ -36,7 +36,7 @@
 - [x] Installed Spotify
 - [x] Installed Authy Desktop
 - [x] Installed Discord
-- [x] Installed Seteam
+- [x] Installed Steam
 - [x] Installed Aseprite
 - [X] Installed Inkscape
 - [x] Installed Chrome
