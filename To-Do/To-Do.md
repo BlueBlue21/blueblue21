@@ -109,5 +109,5 @@
 - [x] Setup Python
 - [x] Setup GitHub Cli
 
-<br>
 <hr>
+<br>
