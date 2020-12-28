@@ -5,6 +5,7 @@
 [<img alt="BlueBlue21's Profile views" align="left" src="https://komarev.com/ghpvc/?username=blueblue21&style=flat-square"/>](https://github.com/bluenoob232)
 [<img alt="BlueBlue's Discord" align="left" src="https://img.shields.io/badge/Discord-BlueBlue21%232100-blue?style=flat-square"/>](https://github.com/bluenoob232)
 [<img alt="BlueBlue's Web" align="left" src="https://img.shields.io/badge/WebSite-Click%20Me!-blue?style=flat-square"/>](https://bluenoob232.github.io)
+[<img alt="Buy a Coffee for BlueBlue21" align="left" src="https://img.shields.io/badge/Buy%20a%20Coffee%20for-BlueBlue21-blue?style=flat-square"/>](https://ko-fi.com/blueblue21)
 
 <br>
 <hr>
