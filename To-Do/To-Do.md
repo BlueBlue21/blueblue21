@@ -15,8 +15,8 @@
 <hr>
 
 ## First To-Do
-- [v] Installed Windows 10
-- [v] Installed Drivers
+- [ ] Installed Windows 10
+- [ ] Installed Drivers
 
 <hr>
 
