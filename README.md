@@ -32,6 +32,7 @@
          <img align="left" alt="Html" width="32" src="https://github.com/bluenoob232/bluenoob232/blob/master/icons/html5.svg"/>
          <img align="left" alt="Kotlin" width="32" src="https://raw.githubusercontent.com/bluenoob232/bluenoob232/master/icons/kotlin.svg"/>
          <img align="left" alt="Go" width="32" src="https://raw.githubusercontent.com/bluenoob232/bluenoob232/master/icons/go.svg"/>
+         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 </details>
 
 <br>
