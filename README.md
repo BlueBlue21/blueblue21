@@ -20,5 +20,4 @@
       </div>
 </details>
 
-<br>
 <hr>
