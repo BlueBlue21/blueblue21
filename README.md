@@ -9,18 +9,6 @@
 <br>
 <hr>
 
-### My Spotify 🎧
-
-<details>
-      <summary>My Spotify [Open] - 🎧</summary>
-      <br>
-      <a href="https://spotify-github-profile.vercel.app/api/view?uid=316dsuwjcdkvamqengfjw2dzuyny&redirect=true">
-          <img alt="BlueBlue21's Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=316dsuwjcdkvamqengfjw2dzuyny&cover_image=true&theme=default"/>
-      </a>
-</details>
-
-<br>
-
 ### GitHub Stats 📊
 
 <details>
