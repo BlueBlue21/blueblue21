@@ -21,14 +21,4 @@
 </details>
 
 <br>
-
-### Programming Languages 💬
-
-<details>
-         <summary>Programming Languages [Open] - 💬</summary>
-         <br>
-         <code><img alt="Main" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"/></code>
-</details>
-
-<br>
 <hr>
