@@ -11,8 +11,8 @@
 ### GitHub Stats 📊
 
 <div>
-      <img alt="BlueBlue21's GitHub Stats" src="https://github-readme-stats-mocha-zeta.vercel.app/api?username=bluenoob232&show_icons=true&theme=react"/>
-      <img align="top" alt="BlueBlue21's GitHub Top Langs" src="https://github-readme-stats-mocha-zeta.vercel.app/api/top-langs/?username=bluenoob232&show_icons=true&theme=react&layout=compact"/>
+      <img alt="BlueBlue21's GitHub Stats" src="https://github-readme-stats-mocha-zeta.vercel.app/api?username=bluenoob232&show_icons=true&theme=react&hide_border=true&bg_color=00000000"/>
+      <img align="top" alt="BlueBlue21's GitHub Top Langs" src="https://github-readme-stats-mocha-zeta.vercel.app/api/top-langs/?username=bluenoob232&show_icons=true&theme=react&layout=compact&hide_border=true&bg_color=00000000"/>
 </div>
 
 <hr>
