@@ -1,4 +1,4 @@
-[<img alt="BlueBlue21's Banner" align="center" src="https://raw.githubusercontent.com/bluenoob232/bluenoob232/master/Main.png"/>](https://github.com/bluenoob232)
+[<img alt="BlueBlue21's Banner" align="center" src="https://capsule-render.vercel.app/api?type=waving&color=2477f2&height=300&section=header&text=BlueBlue21&fontColor=ffffff"/>](https://github.com/bluenoob232)
 
 # HI, I'm a BlueBlue21! 👋 - He/Him
 
