@@ -1,10 +1,6 @@
 [<img alt="BlueBlue21's Banner" align="center" src="https://capsule-render.vercel.app/api?type=waving&color=2477f2&height=260&section=header&text=BlueBlue21&fontColor=ffffff"/>](https://github.com/bluenoob232)
 
-# 안녕하세요, 블루블루라고 합니다! 👋
-
-[<img alt="BlueBlue21's Profile views" align="left" src="https://komarev.com/ghpvc/?username=blueblue21&style=flat-square"/>](https://github.com/bluenoob232)
-
-<br>
+# 안녕하세요, 저는 블루블루라고 합니다! 👋
 
 ### 깃허브 스탯 📊
 
