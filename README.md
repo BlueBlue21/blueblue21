@@ -5,8 +5,8 @@
 ### 깃허브 스탯 📊
 
 <div>
-      <img alt="BlueBlue21's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bluenoob232&show_icons=true&theme=react&hide_border=true&bg_color=00000000"/>
-      <img align="top" alt="BlueBlue21's GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluenoob232&show_icons=true&theme=react&layout=compact&hide_border=true&bg_color=00000000"/>
+      <img alt="BlueBlue21's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=blueblue21&show_icons=true&theme=react&hide_border=true&bg_color=00000000"/>
+      <img align="top" alt="BlueBlue21's GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blueblue21&show_icons=true&theme=react&layout=compact&hide_border=true&bg_color=00000000"/>
 </div>
 
 <br>
