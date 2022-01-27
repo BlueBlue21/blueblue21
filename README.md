@@ -1,6 +1,6 @@
 [<img alt="BlueBlue21's Banner" align="center" src="https://capsule-render.vercel.app/api?type=waving&color=2477f2&height=260&section=header&text=BlueBlue21&fontColor=ffffff"/>](https://github.com/bluenoob232)
 
-# Hi, I'm BlueBlue21! 👋
+# Hi, It's a BlueBlue21! 👋
 
 ### GitHub Stats 📊
 
