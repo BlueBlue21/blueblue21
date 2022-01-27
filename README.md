@@ -2,7 +2,7 @@
 
 # Hi, It's a BlueBlue21! 👋
 
-### GitHub Stats 📊
+### [ GitHub Stats 📊 ]
 
 <div>
       <img alt="BlueBlue21's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=blueblue21&show_icons=true&theme=react&hide_border=true&bg_color=00000000"/>
