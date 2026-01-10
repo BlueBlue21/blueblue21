@@ -4,8 +4,9 @@
 
 ## [ GitHub 📊 ]
 
-[![GitHub](https://github-readme-stats.vercel.app/api?username=blueblue21&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000)](https://github.com/blueblue21)
-[![GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=blueblue21&show_icons=true&theme=github_dark&layout=compact&hide_border=true&bg_color=00000000)](https://github.com/blueblue21)
+[![GitHub](https://github-readme-stats-fast.vercel.app/api?username=blueblue21&show_icons=true&theme=github_dark&hide_border=true&bg_color=1e1e1eff)](https://github.com/blueblue21)
+[![GitHub](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=blueblue21&show_icons=true&theme=github_dark&layout=compact&hide_border=true&bg_color=1e1e1eff
+)](https://github.com/blueblue21)
 
 ## [ solved.ac 📊 ]
 
